@@ -15,7 +15,7 @@ to meet the rising demand.
 Bạn phải dự đoán tác động của mùa lễ đối với doanh số bán hàng của các bộ phận này.
 
 ## Nhận xét:
-Có lẽ là 1 mô hình học máy với input là các feature và output là các thuộc tính của bộ phận cửa hàng và output là doanh thu hàng tuần (như tôi đã chạy trên ipynb phân tích dữ liệu).
+Có lẽ là 1 mô hình học máy với input là các feature  của bộ phận cửa hàng và output là doanh thu hàng tuần (như tôi đã chạy trên ipynb phân tích dữ liệu).
 Sau đó sẽ làm 1 cái phần mềm đơn giản để input đầu vào là ngày lễ, thuộc tính, cửa hàng, đầu ra là dự tính bộ phận doanh thu cao nhất, bộ phận cần cải thiện.(chú ý 1 cửa hàng gồm nhiều Dept - Bộ phận)
 ## link tham khảo (đoạn train)
 
