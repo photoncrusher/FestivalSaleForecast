@@ -20,3 +20,5 @@ Sau đó sẽ làm 1 cái phần mềm đơn giản để input đầu vào là 
 ## link tham khảo (đoạn train)
 
 https://medium.com/analytics-vidhya/walmart-recruiting-store-sales-forecasting-kaggle-competition-856c72c9265a
+
+## Updating front end and visualize
