@@ -15,10 +15,15 @@ to meet the rising demand.
 Bạn phải dự đoán tác động của mùa lễ đối với doanh số bán hàng của các bộ phận này.
 
 ## Nhận xét:
-Có lẽ là 1 mô hình học máy với input là các feature  của bộ phận cửa hàng và output là doanh thu hàng tuần (như tôi đã chạy trên ipynb phân tích dữ liệu).
+Cần xây dựng 1 mô hình học máy với input là các feature  của bộ phận cửa hàng và output là doanh thu hàng tuần (như tôi đã chạy trên ipynb phân tích dữ liệu).
 Sau đó sẽ làm 1 cái phần mềm đơn giản để input đầu vào là ngày lễ, thuộc tính, cửa hàng, đầu ra là dự tính bộ phận doanh thu cao nhất, bộ phận cần cải thiện.(chú ý 1 cửa hàng gồm nhiều Dept - Bộ phận)
 ## link tham khảo (đoạn train)
 
 https://medium.com/analytics-vidhya/walmart-recruiting-store-sales-forecasting-kaggle-competition-856c72c9265a
 
-## Updating front end and visualize
+## Visualize and Training:
+Có trong file BI.ipynb
+
+## Front-end and software
+
+https://github.com/MinhPN101/BA.git
